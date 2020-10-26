@@ -1,0 +1,12 @@
+﻿2020-10-26 07:40:38.4432|DEBUG|ExampleOfNLog.Nlog|Debug Successfull : Add()
+2020-10-26 07:40:38.6508|INFO|ExampleOfNLog.Nlog|Add() : passed
+2020-10-26 07:41:38.7640|DEBUG|ExampleOfNLog.Nlog|Debug Successfull : Add()
+2020-10-26 07:41:38.8409|INFO|ExampleOfNLog.Nlog|Add() : passed
+2020-10-26 07:42:02.1544|DEBUG|ExampleOfNLog.Nlog|Debug Unsuccessful : Add()
+2020-10-26 07:42:02.3088|ERROR|ExampleOfNLog.Nlog|Values enetered  by user should shouold be greater than zero
+2020-10-26 07:42:02.3088|WARN|ExampleOfNLog.Nlog|First or second number should be greater than zero
+2020-10-26 07:42:02.3088|DEBUG|ExampleOfNLog.Nlog|Debug Successfull : Add()
+2020-10-26 07:42:02.3088|INFO|ExampleOfNLog.Nlog|Add() : passed
+2020-10-26 07:43:36.0783|DEBUG|ExampleOfNLog.Nlog|Debug Unsuccessful : Add()
+2020-10-26 07:43:36.4182|ERROR|ExampleOfNLog.Nlog|Values enetered  by user should shouold be greater than zero
+2020-10-26 07:43:36.4182|WARN|ExampleOfNLog.Nlog|First or second number should be greater than zero
