@@ -9,7 +9,6 @@ namespace ExampleOfNLog
             Console.WriteLine("Enter two numbers");
             int firstNumber = Convert.ToInt32(Console.ReadLine());
             int secondNumber = Convert.ToInt32(Console.ReadLine());
-
             AddNumbers addNumbers = new AddNumbers();
             int sum = addNumbers.Add(firstNumber, secondNumber);
             Console.WriteLine("sum is : " + sum);
